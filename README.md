@@ -42,7 +42,7 @@ Python • Pandas • Scikit-learn • Matplotlib • Streamlit
 ![Risk Prediction](risk_prediction.jpg)
 
 ### Safety Recommendations
-![Safety Recommendations](recommendations.jpg)
+![Safety Recommendations](recommendations.png)
 
  🚀 How to Run
 
