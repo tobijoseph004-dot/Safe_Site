@@ -1,5 +1,5 @@
 # Safe_Site
-# 🦺 Construction Workplace Incident Risk Assessment Using Machine Learning
+# 🦺 Construction Workplace Risk Assessment Using Machine Learning
 
 A machine learning and Streamlit application designed to help HSE professionals assess the **potential severity risk of workplace incidents** in construction settings.
 
