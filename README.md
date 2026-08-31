@@ -35,17 +35,16 @@ Python • Pandas • Scikit-learn • Matplotlib • Streamlit
 
 ### Risk Assessment Interface
 
-![Risk Assessment Interface](screenshots/risk_assessment.png)
+![Risk Assessment Interface](risk_assessment.jpg)
 
 ### Risk Prediction
 
-![Risk Prediction](screenshots/risk_prediction.png)
+Risk Prediction](risk_prediction.jpg)
 
 ### Safety Recommendations
+![Safety Recommendations](recommendations.jpg)
 
-![Safety Recommendations](screenshots/recommendations.png)
-
-## 🚀 How to Run
+ 🚀 How to Run
 
 1. Clone the repository:
 
