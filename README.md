@@ -70,7 +70,7 @@ streamlit run app.py
 
 For a detailed explanation of the **dataset, exploratory analysis, model development, evaluation, findings, and recommendations**, see the project presentation.
 
-[📥 View Project Presentation](SafeSite_Presentation_Template -Recovered-.pdf)
+[📥 View Project Presentation](SafeSite_Presentation_Template%20-Recovered-.pdf)
 
 ## 👥 Team
 
